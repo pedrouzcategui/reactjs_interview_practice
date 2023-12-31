@@ -31,6 +31,7 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Snake
   - Tree Visualizer
   - Bank Of America UI Clone
+  - Quiz Builder
 - Master
   - Tetris
   - Snake pt.2
