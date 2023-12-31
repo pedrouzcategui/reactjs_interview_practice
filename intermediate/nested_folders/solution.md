@@ -88,4 +88,4 @@ The great thing is that we can call the File component again with the children p
 
 ![Result](image.png)
 
-Inspiration: ![Web Dev Cody](https://www.youtube.com/watch?v=ixgxx_um8r8&t=190s)
+Inspiration: [Web Dev Cody](https://www.youtube.com/watch?v=ixgxx_um8r8&t=190s)

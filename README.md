@@ -46,4 +46,4 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Figma Clone
   - Scroll Animation with Three.js
 
-I'll keep adding more as I solve them, ![Follow me on YouTube to see the progress](https://www.youtube.com/@pedrouzcategui1328)!
+I'll keep adding more as I solve them, [Follow me on YouTube to see the progress](https://www.youtube.com/@pedrouzcategui1328)!
