@@ -1,0 +1,9 @@
+* {
+  font-family: monospace;
+}
+
+.file {
+  margin-left: 10px;
+  cursor: pointer;
+  user-select: none;
+}
