@@ -1,0 +1,15 @@
+.cell {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+  color: black;
+}
+
+.cell:hover {
+  background-color: gray;
+}
