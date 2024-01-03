@@ -49,6 +49,7 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - PathFinder Visualizer
   - Multiplayer Paint
   - Pokemon Battle
+  - Hidden Minesweeper
 - Ultra Master
   - Multiplayer Monopoly
   - Figma Clone
