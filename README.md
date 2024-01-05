@@ -22,6 +22,8 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Stoplight Component
   - YouTube Word Counter
   - Languages Benchmarks
+  - Law GPT
+  - Sales Objections
 - Intermediate
   - React.js Quiz pt.2
   - Nested Folders
@@ -30,7 +32,6 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - 2048
   - Flappy Bird
   - Repl.it Clone
-  - Law GPT
   - Wordle
   - Sudoku Solver
   - Memory
@@ -38,13 +39,13 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Snake
   - Tree Visualizer
   - Bank Of America UI Clone
-  - Quiz Builder
   - BlackJack
 - Master
+  - Quiz Builder
   - Tetris
   - Snake pt.2
   - Frontend Expert UI
-  - Async Recursion Drive Download
+  - Google Drive
   - Array Sorting Visualization
   - PathFinder Visualizer
   - Multiplayer Paint
@@ -53,7 +54,6 @@ Do NOT skip them, each of them shows something valuable about the framework.
 - Ultra Master
   - Multiplayer Monopoly
   - Figma Clone
-  - Scroll Animation with Three.js
-  - Ace Attorney but different
+  - Star Fox
 
 I'll keep adding more as I solve them, [Follow me on YouTube to see the progress](https://www.youtube.com/@pedrouzcategui1328)!
