@@ -9,3 +9,4 @@ Your task will be creating a clone of this service, by connecting 3 APIs:
 - Variables
 - HTML5
 - Drag and Drop
+- UI
