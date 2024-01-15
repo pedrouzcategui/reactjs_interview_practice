@@ -14,7 +14,6 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Color Guessing Game
   - Synonyms
   - Points Maker
-  - React.js Quiz
   - Image Looper
   - Passcode Guessing
   - Multi Select Dropdown Component
@@ -23,10 +22,10 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - YouTube Word Counter
   - Languages Benchmarks
   - Law GPT
-  - Sales Objections
+  - ✅ Sales Objections
 - Intermediate
   - React.js Quiz pt.2
-  - Nested Folders
+  - ✅ Nested Folders
   - Dominoes
   - Top Ten Tech Youtubers Ranking
   - 2048
@@ -53,7 +52,6 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Hidden Minesweeper
 - Ultra Master
   - Multiplayer Monopoly
-  - Figma Clone
-  - Star Fox
+  - Figma Clone / Excalidraw Clone
 
 I'll keep adding more as I solve them, [Follow me on YouTube to see the progress](https://www.youtube.com/@pedrouzcategui1328)!
