@@ -34,6 +34,7 @@ Do NOT skip them, each of them shows something valuable about the framework.
   - Wordle
   - Sudoku Solver
   - Memory
+  - ✅ MineSweeper
   - Connect4
   - Snake
   - Tree Visualizer
